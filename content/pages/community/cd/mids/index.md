@@ -143,7 +143,16 @@ include:
 -   This Task Group would welcome anyone who has a practical interest in
 minimum information standards, Digital Specimen information, experience with digitization processes and workflows and the subsequent management (including making public) of the outputs of digitization, including reporting requirements for management and funding agencies.
 
--   Contact the Conveners.  
+- Become involved and contribute by:
+
+    - Contacting the Conveners and/or signing up to the [task group mailing list](http://lists.tdwg.org/mailman/listinfo/tdwg-mids).
+  
+    - Participating in the monthly meetings (first Thursday of the month, UTC 13:30 - 15:00).
+
+    - Watching this [github repository](https://github.com/tdwg/mids). Submitting or commenting on an issue.
+
+    - Using and evaluating the the specification as it emerges and providing feedback e.g., by submitting an issue or suggesting a new need.
+  
 
 ## Context/history
 
