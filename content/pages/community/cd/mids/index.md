@@ -15,9 +15,13 @@ status: published
 
 ## Convenors
 
-- [Alex Hardisty](mailto:HardistyAR@cardiff.ac.uk) (Cardiff University, UK)
 - [Elspeth Haston](mailto:EHaston@rbge.org.uk) (Royal Botanic Garden Edinburgh, UK)
+- [Cat Chapman](mailto:cchapman@floridamuseum.ufl.edu) (iDigBio, Florida Museum of Natural History, University of Florida)
 
+
+**Ex-convenors**
+- [Alex Hardisty](mailto:HardistyAR@cardiff.ac.uk) (Cardiff University, UK)
+  
 ## Core Members
 
 - Wouter Addink, Naturalis, NL
@@ -76,31 +80,30 @@ information.
 
 ## Goals, outputs and outcomes
 
-- Beginning with the existing [draft MIDS specification](https://bit.ly/MIDSv011) (July 2020) developed with input from the DiSSCo and ADBC
-programmes, the goal now is to broaden applicability and to achieve international consensus that leads to widespread adoption and implementation.
+- Building on the most recent [draft MIDS specification]([https://bit.ly/MIDSv011](https://github.com/tdwg/mids/blob/working-draft/current-draft%20/MIDS-definition-v0.17-13Jul2023.md) (July 2023) developed with input from the DiSSCo and ADBC programmes, the goal now is to broaden applicability and to achieve international consensus that leads to widespread adoption and implementation.
 
-- Outputs will include the draft standard itself, a summary of the use cases served, reports of pilot implementations and evaluations of the standard's content, and appropriate proposals for MIDS sup   > by other TDWG standards, such as Darwin Core, ABCD, CD, 
+- Outputs will include the draft standard itself, a summary of the use cases served, reports of pilot implementations and evaluations of the standard's content, and appropriate proposals for MIDS support by other TDWG standards, such as Darwin Core, ABCD, CD.
 
 - The complete draft minimum information standard for Minimum Information about a Digital Specimen (MIDS) will be submitted for consideration as a TDWG Standard (Autumn 2021).
 
 ## Strategy
 
--   A working session at TDWG 2020 will introduce the topic to the TDWG community.
+-   A working session at TDWG 2020 introduced the topic to the TDWG community.
 
 -   Through a series of monthly virtual working sessions, the task group
-    will review, discuss and improve the existing draft specification
+    reviewed, discussed and improved the existing draft specification
     to accommodate the variability of digitization processes,
     procedures and workflows across different collection types and
     institutions.
 
--   GitHub will be used to co-ordinate the work and documentation. A
-    task-driven work plan will be developed here which will be openly
-    available. This platform will support the focussed working
-    sessions and will help identify and engage user participation from
+-   GitHub has been used to co-ordinate the work and documentation. A
+    task-driven work plan has been developed here which will be openly
+    available. This platform is supporting the focussed working
+    sessions and helps identify and engage user participation from
     across the bio-and geodiversity community, from all parts of the
     world.
 
--   Use cases from across the community will be documented and
+-   Use cases from across the community are being documented and
     summarised. The MIDS standard will then be tested against these
     use cases as part of the evaluation process, and adjusted as
     needed.
@@ -121,7 +124,7 @@ include:
     platforms in relation to field inclusion and management of missing
     data; and of other software tools;
 
--   Digitization and administration staff, for example to identify and
+-   Digitisation and administration staff, for example to identify and
     manage missing data and to calculate costs of and plan for further
     digitization;
 
@@ -139,7 +142,9 @@ include:
 -   This Task Group would welcome anyone who has a practical interest in
 minimum information standards, Digital Specimen information, experience with digitization processes and workflows and the subsequent management (including making public) of the outputs of digitization, including reporting requirements for management and funding agencies.
 
--   Contact the Conveners.  
+-   Contact the Conveners
+-   Find more information about the MIDS Task Group on the [GitHub working site](https://github.com/tdwg/mids)
+-   Sign up for the [group e-mail list](https://lists.tdwg.org/mailman/listinfo/tdwg-mids)
 
 ## Context/history
 
@@ -200,4 +205,4 @@ Biodiversity Data Quality: (BDQ IG): MIDS recognises the importance of both qual
 
 ---
 
-Alex Hardisty, Elspeth Haston <br />July 2020
+Elspeth Haston & Cat Chapman <br />March 2024
